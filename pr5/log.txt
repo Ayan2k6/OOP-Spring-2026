@@ -1,0 +1,3 @@
+Ошибка в выражении '5.3+': Не хватает операнда (NoSuchElementException)
+Ошибка в выражении '5.3+a': Неверный формат числа (NumberFormatException)
+Ошибка в выражении '5.3^9.2': Неподдерживаемый оператор: ^ (UnsupportedOperationException)
